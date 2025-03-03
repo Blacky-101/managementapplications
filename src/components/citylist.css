@@ -1,0 +1,26 @@
+.city-container {
+  
+  width: 50%;
+  margin-top: 10px;
+  background: #f9f9f9;
+  padding: 10px;
+  border-radius: 5px;
+  
+}
+  
+  .city-container h4 {
+    color: #444;
+  }
+  
+  button.delete-btn {
+    background-color: #d9534f;
+    color: white;
+    margin-left: 10px;
+  }
+
+  button.add-btn {
+    background-color: #4caf50;
+    color: white;
+  }
+
+  
